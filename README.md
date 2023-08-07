@@ -1,3 +1,5 @@
+theme: minima
+
 # my-mortal-kombat-game
 
 ## Goal
