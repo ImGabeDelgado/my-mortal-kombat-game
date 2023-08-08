@@ -1,7 +1,3 @@
-theme: minima
-
-# my-mortal-kombat-game
-
 ## Goal
 
 Defeat the other fighter using each fighter's attacks. 
