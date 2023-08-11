@@ -12,4 +12,8 @@ If, at any moment, the player would like to pause the game, simply press the spa
 
 ## Screenshots
 
+![Main Menu](https://raw.githubusercontent.com/ImGabeDelgado/my-mortal-kombat-game/main/PygameMenu.png)
+
 ![Play screen](https://raw.githubusercontent.com/ImGabeDelgado/my-mortal-kombat-game/main/PygamePic.png)
+
+![Paused screen](https://raw.githubusercontent.com/ImGabeDelgado/my-mortal-kombat-game/main/PygamePaused.png)
