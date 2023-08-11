@@ -8,6 +8,8 @@ Player one's (Warrior) movement is controlled using the keys: w, a, d, r, t. The
 
 Player two's (Wizard) movement is controlled using the arrow keys and number pad: UP, LEFT, RIGHT, 1, 2. The "UP" arrow key causes the fighter to jump. The "LEFT" and "RIGHT" arrow keys move the fighter left and right, respectively. The "1" key is attack type 1, and the "2" key is attack type 2. 
 
+If, at any moment, the player would like to pause the game, simply press the spacebar. 
+
 ## Screenshots
 
 ![Play screen](https://raw.githubusercontent.com/ImGabeDelgado/my-mortal-kombat-game/main/PygamePic.png)
